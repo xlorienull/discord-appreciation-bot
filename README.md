@@ -1,0 +1,1 @@
+# discord-thank2authorized-bot
