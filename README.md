@@ -1,14 +1,13 @@
 # discord-thank2authorized-bot
 
- - [Discord Guard Bot](https://github.com/beT4w/betaGuard)
+ - [Discord Thank2Authorized Bot](https://github.com/xlorienull/discord-thank2authorized-bot)
       - [Kurulum](#kurulum)
-      - [İçerikler](#İçerikler)
-      - [İletişim](#İletişim)
+      - [Contact](#contact)
       - [FAQ](#faq)
 
 <div align="center">
-   <a href="https://github.com/BetaWile">
-      <img src="https://betaaa.has-a-hot.mom/55orRHk8J.gif">
+   <a href="https://github.com/xlorienull">
+      <img src="https://xlorienull.life-is-pa.in/ogp/5uL8qwaAi.gif">
    </a>
 </div>
 
@@ -19,7 +18,7 @@
 * Daha sonra `config.js` dosyalardaki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
-* Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
+* Kurulum bittikten sonra ```node main.js``` yaz ve botu başlat.
 
 
 ## Botun İntentlerini Açmayı Unutma!
@@ -37,48 +36,34 @@
 ## Config.json Bilgi
 
 ```json
-{
+module.exports = {
+  "token": "BOT TOKEN",
+  "owner": ["BOT OWNER ID 1","BOT OWNER ID 2"], 
+  "prefix": "!",
+  "footer": "FOOTER TEXT",
+  "color": "COLOR CODE",
+  "activity": "ACTIVITY STATUS",
 
-    "Bot": {
-        "token": "TOKEN",
-        "owner": "SAHİP_ID",
-        "server": "SUNUCU_ID",
-        "activity": "DURUM"
-    },
-
-    "Guard": {
-        "safezone": ["GÜVENLİ_KİŞİ", "LER"],
-        "safebots": ["GÜVELİ BOT", "LAR"],
-        "jail": "CEZALI_ROL_ID",
-        "booster": "BOOSTER_ROL_ID",
-        "log": "LOG_KANAL_ID"
-    }
-    
-}
+  "helper": ["HELPER ROLE ID"],
+  
+  "yes": "✅",
+  "no": "❌",
+  "y": "✅",
+  "n": "❌"
+};
 ```
 
-## • Guard {
-  - [x] Rol Oluşturma Koruma
-  - [x] Rol Silme Koruma
-  - [x] Rol Güncelleme Koruma
-  - [x] Kanal Oluşturma Koruma
-  - [x] Kanal Silme Koruma
-  - [x] Kanal Güncelleme Koruma
-  - [x] Sunucu Güncelleme Koruma
-  - [x] Üye Güncellenme Koruma
-  - [x] Emoji Güncellenme Koruma
-  - [x] Emoji Silme Koruma
-  - [x] Emoji Oluşturma Koruma
-  - [x] Ban Koruma
-  - [x] Kick Koruma
-  - [x] Ban Açma Koruma
-  - [x] Bot Koruma
-  - [x] Güvenli Fonksiyonu
+## • Thank2Authorized-Bot {
+  - [x] thank-top.js
+  - [x] thank-point.js
+  - [x] thank-history.js
+  - [x] thank-database-delete.js
+  - [x] thank.js
 ## };
 
-# İletişim
+# Contact
 * [Discord Profilim](https://discord.com/users/852615172673503262)
-* [Discord Sunucum](https://discord.gg/58UAMVJTSH)
+* [Discord Sunucum](https://discord.gg/1851)
 
 # FAQ
 Sıkça sorulan sorulara buradan ulaşabilirsin.
@@ -96,4 +81,4 @@ Sıkça sorulan sorulara buradan ulaşabilirsin.
 **A:** Proje içindeki hatalarla ilgileniyorum. Eğer bir hata ile karşılaşırsanız lütfen Discorddan benimle iletişim kurun. 
 
 
-## NOT: Botta liasns bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
+## NOT: Botta lisans bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
