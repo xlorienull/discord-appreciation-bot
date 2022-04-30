@@ -13,8 +13,8 @@
 
 # Translate/Çeviri
 <div align="center">
-    <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/English-111111.svg?&style=for-the-badge&logo="></a>
-    <a href="https://github.com/thearkxd" target="_blank"><img src="https://shields.io/badge/Turkish-111111.svg?&style=for-the-badge&logo="></a>
+    <a href="https://github.com/xlorienull/discord-thank2authorized-bot/blob/main/README.md#discord-thank2authorized-bot" target="_blank"><img src="https://shields.io/badge/English-111111.svg?&style=for-the-badge&logo="></a>
+    <a href="https://github.com/xlorienull/discord-thank2authorized-bot/blob/main/README-tr.md#discord-thank2authorized-bot" target="_blank"><img src="https://shields.io/badge/Turkish-111111.svg?&style=for-the-badge&logo="></a>
 </div>
 
 # Kurulum
