@@ -1,12 +1,12 @@
 # Translate/Çeviri
 <div align="center">
-    <a href="https://github.com/xlorienull/discord-thank2authorized-bot/blob/main/README.md#discord-thank2authorized-bot" target="_blank"><img src="https://shields.io/badge/İngİlİzce-111111.svg?&style=for-the-badge&logo="></a>
-    <a href="https://github.com/xlorienull/discord-thank2authorized-bot/blob/main/README-tr.md#discord-thank2authorized-bot" target="_blank"><img src="https://shields.io/badge/Türkçe-111111.svg?&style=for-the-badge&logo="></a>
+    <a href="https://github.com/xlorienull/discord-appreciation-bot/blob/main/README.md#discord-appreciation-bot" target="_blank"><img src="https://shields.io/badge/İngİlİzce-111111.svg?&style=for-the-badge&logo="></a>
+    <a href="https://github.com/xlorienull/discord-appreciation-bot/blob/main/README-tr.md#discord-appreciation-bot" target="_blank"><img src="https://shields.io/badge/Türkçe-111111.svg?&style=for-the-badge&logo="></a>
 </div>
 
-# discord-thank2authorized-bot
+# discord-appreciation-bot
 
- - [Discord Thank2Authorized Bot](https://github.com/xlorienull/discord-thank2authorized-bot)
+ - [Discord Teşekkür Sistemi](https://github.com/xlorienull/discord-appreciation-bot)
       - [Kurulum](#kurulum)
       - [Medya](#medya)
       - [Sıkça Sorulan Sorular](#sss)
@@ -26,7 +26,7 @@
 * ```npm install``` yazarak tüm modülleri kur.
 * Kurulum bittikten sonra ```node index.js``` yaz ve botu başlat.
 
-## Botun İntentlerini Açmayı unutma!
+## Botun İntentlerini Açmayı unutmayın!
 * [Açmak İçin Tıkla](https://discord.com/developers/applications)
 <img src="https://xlorienull.life-is-pa.in/ogp/5uU7acv4f.gif"/>
 
@@ -55,7 +55,7 @@ module.exports = {
 };
 ```
 
-## • Thank2Authorized-Bot {
+## • TeşekkürSistemi-Komutlar {
   - [x] thank-top.js
   - [x] thank-point.js
   - [x] thank-history.js
