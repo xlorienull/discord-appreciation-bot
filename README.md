@@ -57,7 +57,7 @@ module.exports = {
 };
 ```
 
-## • Appreciation-Command
+## • Appreciation-Commands
   - [x] thank-top.js
   - [x] thank-point.js
   - [x] thank-history.js
