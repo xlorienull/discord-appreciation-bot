@@ -2,9 +2,9 @@
   "name": "xlorienull",
   "version": "0.0.2",
   "description": "Developed By xlorienull(Discord: xlorienull#1851).",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "croxydb": "^0.0.7",
