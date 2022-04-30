@@ -1,12 +1,12 @@
 # Translate/Çeviri
 <div align="center">
-    <a href="https://github.com/xlorienull/discord-thank2authorized-bot/blob/main/README.md#discord-thank2authorized-bot" target="_blank"><img src="https://shields.io/badge/English-111111.svg?&style=for-the-badge&logo="></a>
-    <a href="https://github.com/xlorienull/discord-thank2authorized-bot/blob/main/README-tr.md#discord-thank2authorized-bot" target="_blank"><img src="https://shields.io/badge/Turkish-111111.svg?&style=for-the-badge&logo="></a>
+    <a href="https://github.com/xlorienull/discord-appreciation-bot/blob/main/README.md#discord-appreciation-bot" target="_blank"><img src="https://shields.io/badge/English-111111.svg?&style=for-the-badge&logo="></a>
+    <a href="https://github.com/xlorienull/discord-appreciation-bot/blob/main/README-tr.md#discord-appreciation-bot" target="_blank"><img src="https://shields.io/badge/Turkish-111111.svg?&style=for-the-badge&logo="></a>
 </div>
 
-# discord-thank2authorized-bot
+# discord-appreciation-bot
 
- - [Discord Thank2Authorized Bot](https://github.com/xlorienull/discord-thank2authorized-bot)
+ - [Discord Appreciation Bot](https://github.com/xlorienull/discord-appreciation-bot)
       - [Setup](#set-up)
       - [Contact](#contact)
       - [FAQ](#faq)
@@ -57,7 +57,7 @@ module.exports = {
 };
 ```
 
-## • Thank2Authorized-Bot {
+## • Appreciation-Bot
   - [x] thank-top.js
   - [x] thank-point.js
   - [x] thank-history.js
