@@ -11,6 +11,12 @@
    </a>
 </div>
 
+# Translate/Çeviri
+<div align="center">
+    <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/English-111111.svg?&style=for-the-badge&logo="></a>
+    <a href="https://github.com/thearkxd" target="_blank"><img src="https://shields.io/badge/Turkish-111111.svg?&style=for-the-badge&logo="></a>
+</div>
+
 # Set-up
 * First download [Node JS](https://nodejs.org/en/) to your computer.
 * Download this project as zip.
