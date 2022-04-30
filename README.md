@@ -1,3 +1,9 @@
+# Translate/Çeviri
+<div align="center">
+    <a href="https://github.com/xlorienull/discord-thank2authorized-bot/blob/main/README.md#discord-thank2authorized-bot" target="_blank"><img src="https://shields.io/badge/English-111111.svg?&style=for-the-badge&logo="></a>
+    <a href="https://github.com/xlorienull/discord-thank2authorized-bot/blob/main/README-tr.md#discord-thank2authorized-bot" target="_blank"><img src="https://shields.io/badge/Turkish-111111.svg?&style=for-the-badge&logo="></a>
+</div>
+
 # discord-thank2authorized-bot
 
  - [Discord Thank2Authorized Bot](https://github.com/xlorienull/discord-thank2authorized-bot)
@@ -9,12 +15,6 @@
    <a href="https://github.com/xlorienull">
       <img src="https://xlorienull.life-is-pa.in/ogp/5uL8qwaAi.gif">
    </a>
-</div>
-
-# Translate/Çeviri
-<div align="center">
-    <a href="https://github.com/xlorienull/discord-thank2authorized-bot/blob/main/README.md#discord-thank2authorized-bot" target="_blank"><img src="https://shields.io/badge/English-111111.svg?&style=for-the-badge&logo="></a>
-    <a href="https://github.com/xlorienull/discord-thank2authorized-bot/blob/main/README-tr.md#discord-thank2authorized-bot" target="_blank"><img src="https://shields.io/badge/Turkish-111111.svg?&style=for-the-badge&logo="></a>
 </div>
 
 # Set-up
