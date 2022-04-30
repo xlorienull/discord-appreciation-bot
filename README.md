@@ -1,7 +1,7 @@
 # Translate/Çeviri
 <div align="center">
     <a href="https://github.com/xlorienull/discord-appreciation-bot/blob/main/README.md#discord-appreciation-bot" target="_blank"><img src="https://shields.io/badge/English-111111.svg?&style=for-the-badge&logo="></a>
-    <a href="https://github.com/xlorienull/discord-appreciation-bot/blob/main/README-tr.md#discord-appreciation-bot" target="_blank"><img src="https://shields.io/badge/Turkish-111111.svg?&style=for-the-badge&logo="></a>
+    <a href="https://github.com/xlorienull/discord-appreciation-bot/blob/main/README-tr.md#discord-teşekkür-sistemi-bot" target="_blank"><img src="https://shields.io/badge/Turkish-111111.svg?&style=for-the-badge&logo="></a>
 </div>
 
 # discord-appreciation-bot
