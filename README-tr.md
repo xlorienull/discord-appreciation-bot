@@ -4,7 +4,7 @@
     <a href="https://github.com/xlorienull/discord-appreciation-bot/blob/main/README-tr.md#discord-appreciation-bot" target="_blank"><img src="https://shields.io/badge/Türkçe-111111.svg?&style=for-the-badge&logo="></a>
 </div>
 
-# discord-appreciation-bot
+# discord-teşekkür-sistemi-bot
 
  - [Discord Teşekkür Sistemi](https://github.com/xlorienull/discord-appreciation-bot)
       - [Kurulum](#kurulum)
