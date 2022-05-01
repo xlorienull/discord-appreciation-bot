@@ -10,12 +10,16 @@
       - [Setup](#set-up)
       - [Contact](#contact)
       - [FAQ](#faq)
+      - [Information](#information)
 
 <div align="center">
    <a href="https://github.com/xlorienull">
       <img src="https://xlorienull.life-is-pa.in/ogp/5uL8qwaAi.gif">
    </a>
 </div>
+
+# Information
+This is an appreciation/reputation system with points. It's usually used for the staff members of code-sharing communities on Discord. It includes commands like; top, rank and even history etc, I hope you enjoy it.
 
 # Set-up
 * First download [Node JS](https://nodejs.org/en/) to your computer.
