@@ -10,12 +10,16 @@
       - [Kurulum](#kurulum)
       - [Medya](#medya)
       - [Sıkça Sorulan Sorular](#sss)
+      - [Bilgilendirme](#bilgilendirme)
 
 <div align="center">
    <a href="https://github.com/xlorienull">
       <img src="https://xlorienull.life-is-pa.in/ogp/5uL8qwaAi.gif">
    </a>
 </div>
+
+# Bilgilendirme
+Bu bir puanlı teşekkür botudur. Genellikle kod paylaşım sunucularında yetkililere özel terfi olunması için kullanılır. Top sıralama, Teşekkür geçmişi(denetim gibi) ve bir kaç komut bulunmakta. Umarım hoşunuza gitmiştir.
 
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
