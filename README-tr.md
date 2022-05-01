@@ -34,7 +34,7 @@ Bu bir puanlı teşekkür botudur. Genellikle kod paylaşım sunucularında yetk
 * [Açmak İçin Tıkla](https://discord.com/developers/applications)
 <img src="https://xlorienull.life-is-pa.in/ogp/5uU7acv4f.gif"/>
 
-***Tadaaa 🎉. Artık guard botun hazır. Dilediğin gibi kullanabilirsin.***
+***Tadaaa 🎉. Artık botun hazır. Dilediğin gibi kullanabilirsin.***
 
 # Neden Yayınlandı?
 Kısaca neden böyle bir şey için uğraştığımı anlatayım. Hem kendimi geliştirmek ve daha iyi bilgilere ulaşmak, hatalar alıp onları nasıl düzeltebileceğimi bulmak, tecrübe kazanmak için hemde bundan sizinde yaralanmanızı istedim.
