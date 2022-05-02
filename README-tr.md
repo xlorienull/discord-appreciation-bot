@@ -74,7 +74,7 @@ module.exports = {
 * [Github](https://github.com/xlorienull)
 * [Twitch](https://www.twitch.tv/xlorienull)
 * [Spotify](https://open.spotify.com/user/tioe4nfdnqmwkd920wxzbb6lo)
-* [Discord](https://discord.com/users/926403053618339840)
+* [Discord](https://discord.com/users/432854313736339466)
 
 # SSS
 Sıkça sorulan sorulara buradan ulaşabilirsin.
