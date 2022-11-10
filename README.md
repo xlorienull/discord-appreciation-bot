@@ -70,12 +70,8 @@ module.exports = {
 ## };
 
 # Contact
-* [YouTube](https://www.youtube.com/channel/UCi1mTrpqsvmgsMUJMosVPmQ)
-* [Twitter](https://twitter.com/@xlorienull)
-* [Instagram](https://instagram.com/xlorienull)
-* [Github](https://github.com/xlorienull)
-* [Twitch](https://www.twitch.tv/xlorienull)
-* [Spotify](https://open.spotify.com/user/tioe4nfdnqmwkd920wxzbb6lo)
+* [YouTube](https://www.youtube.com/@motionxsh)
+* [Instagram](https://instagram.com/motionxsh)
 * [Discord](https://discord.com/users/432854313736339466)
 
 # FAQ
